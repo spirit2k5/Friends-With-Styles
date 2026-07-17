@@ -1,0 +1,26 @@
+FRIENDS WITH STYLE — MOBILE RESPONSIVE UPDATE
+
+What changed
+- Phone product cards are now large and easy to view.
+- Mobile product grid uses one card per row on normal phones.
+- Header, menu, cart and buttons have larger touch targets.
+- Hero image and text no longer look squeezed or tiny.
+- Product popup, shopping bag and checkout now use the full phone screen.
+- Colour, size and quantity controls are easier to tap.
+- Maps, services, policy, contact and footer sections stack cleanly.
+- Safe-area spacing added for iPhones with a notch/home indicator.
+- Desktop and laptop styling remains unchanged.
+
+Deployment
+1. Back up the current hosted website folder.
+2. Replace the existing website files with this full pack.
+3. Upload every file and the complete assets folder.
+4. Clear the browser cache or open the site in a private tab.
+
+Mobile test checklist
+- Open on iPhone and Android.
+- Confirm there is no sideways scrolling.
+- Open a product and select a colour and size.
+- Add two different products to the bag.
+- Open checkout and test Collection, Delivery and PAXI.
+- Confirm the map and WhatsApp order buttons work.
