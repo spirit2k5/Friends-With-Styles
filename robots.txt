@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://spirit2k5.github.io/Friends-With-Styles/sitemap.xml
